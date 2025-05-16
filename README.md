@@ -29,9 +29,10 @@ O site foi testado e adaptado para:
 - 💻 Laptops
 - 🖥️ Telas grandes
 
-## 👨‍💻 Desenvolvido por
+## 👨‍💻 Autor
 
-[Tiago Lima](https://github.com/ti-limaa)
+Desenvolvido por Tiago Lima  
+🔗 [Meu GitHub](https://github.com/ti-limaa)
 
 
 
