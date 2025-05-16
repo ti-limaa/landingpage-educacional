@@ -1,6 +1,10 @@
 # 📘 Landing Page Educacional 
 
-Projeto desenvolvido por mim, do zero, utilizando apenas **HTML5** e **CSS3**, com foco em boas práticas de estruturação, responsividade e design visual moderno.
+Projeto desenvolvido por mim, do zero, utilizando apenas **HTML5** e **CSS3**, com foco em boas práticas de estruturação, responsividade e design visual moderno. 
+
+<div class="image">
+<img src="educational.png" />
+</div>
 
 ## 💡 Sobre o projeto
 
@@ -25,10 +29,12 @@ O site foi testado e adaptado para:
 - 💻 Laptops
 - 🖥️ Telas grandes
 
+## 👨‍💻 Desenvolvido por
+
+[Tiago Lima](https://github.com/ti-limaa)
 
 
 
-## 🔗 Acesse o projeto
 
-Você pode visualizar o projeto publicado aqui (caso use o GitHub Pages):
+
 
